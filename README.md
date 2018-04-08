@@ -1,7 +1,7 @@
 # Anti-Duplicator
 This program will show you duplicates of files.
 
-# Как запустить
+# How to run
 Example of running of a script on a Linux with a Python3 interpreter.
 You should pass a root path where you wanna find duplicates as an agrument.
 ```bash
